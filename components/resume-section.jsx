@@ -72,7 +72,7 @@ export function ResumeSection() {
                     <li>Node.js, Express.js, REST APIs</li>
                     <li>MongoDB, PostgreSQL, Supabase</li>
                     <li>Git & GitHub</li>
-                    <li>Deployment with Vercel</li>
+                    <li>Deployment with Vercel& Andasy</li>
                   </ul>
                 </CardContent>
               </Card>
@@ -98,7 +98,7 @@ export function ResumeSection() {
               <Card className="bg-gray-900 border border-gray-700 rounded-xl shadow-sm hover:shadow-md transition">
                 <CardHeader>
                   <CardTitle className="text-teal-400">TakeHerTech Program</CardTitle>
-                  <CardDescription className="text-gray-400">Organization: kLab · Dec 2024 – Present</CardDescription>
+                  <CardDescription className="text-gray-400">Organization: kLab · Dec 2024 – Aug 2025</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <ul className="list-disc pl-5 space-y-1 text-gray-300 text-sm">

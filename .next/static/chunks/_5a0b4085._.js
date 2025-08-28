@@ -1534,8 +1534,8 @@ function ProjectCard({ project }) {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                     src: project.image,
                     alt: project.title,
-                    width: 400,
-                    height: 300,
+                    width: 700,
+                    height: 200,
                     className: "rounded-t-lg object-cover w-full h-48"
                 }, void 0, false, {
                     fileName: "[project]/components/project-card.jsx",
@@ -1725,7 +1725,7 @@ function PortfolioSection() {
         id: "portfolio",
         className: "w-full py-12 md:py-24 lg:py-32 bg-gray-900 text-gray-100",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "container px-4 md:px-6",
+            className: "container px-4 md:px-6 max-w-10xl mx-auto",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-col items-center justify-center space-y-4 text-center mb-10",
@@ -1817,7 +1817,7 @@ function PortfolioSection() {
         }, void 0, true, {
             fileName: "[project]/components/portfolio-section.jsx",
             lineNumber: 10,
-            columnNumber: 7
+            columnNumber: 3
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/portfolio-section.jsx",
@@ -1923,7 +1923,7 @@ function ContactSection() {
         id: "contact",
         className: "w-full py-12 md:py-24 lg:py-32 bg-gray-800 text-gray-100",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "container px-4 md:px-6",
+            className: "container px-4 md:px-6 max-w-10xl mx-auto",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-col items-center justify-center space-y-4 text-center mb-10",
@@ -1955,7 +1955,7 @@ function ContactSection() {
                 }, void 0, false, {
                     fileName: "[project]/components/contact-section.jsx",
                     lineNumber: 13,
-                    columnNumber: 9
+                    columnNumber: 3
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "grid gap-8 lg:grid-cols-2 max-w-4xl mx-auto",
@@ -2182,7 +2182,7 @@ function ContactSection() {
         }, void 0, true, {
             fileName: "[project]/components/contact-section.jsx",
             lineNumber: 12,
-            columnNumber: 7
+            columnNumber: 3
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/contact-section.jsx",

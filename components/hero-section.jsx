@@ -43,13 +43,13 @@ export function HeroSection() {
             </div>
           </div>
         </div>
-        <div className="relative mx-auto aspect-square overflow-hidden rounded-xl border-4 border-teal-400 shadow-lg lg:order-last">
+        <div className="relative mx-auto aspect-square overflow-hidden rounded-xl border-4 border-teal-400 shadow-lg lg:order-last ">
           <Image
             src="/WhatsApp Image 2025-07-31 at 19.01.24.jpeg?height=500&width=200"
             alt="Victoria DUFATANYE"
-            width={400}
+            width={500}
             height={500}
-            className="object-cover w-full h-full"
+            className="object-cover w-full h-full "
           />
         </div>
       </div>

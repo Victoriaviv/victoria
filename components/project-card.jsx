@@ -10,8 +10,8 @@ export function ProjectCard({ project }) {
         <Image
           src={project.image }
           alt={project.title}
-          width={400}
-          height={300}
+          width={700}
+          height={200}
           className="rounded-t-lg object-cover w-full h-48"
         />
       </CardHeader>
