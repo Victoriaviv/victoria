@@ -45,7 +45,7 @@ export function HeroSection() {
         </div>
         <div className="relative mx-auto aspect-square overflow-hidden rounded-xl border-4 border-teal-400 shadow-lg lg:order-last ">
           <Image
-            src="/WhatsApp Image 2025-07-31 at 19.01.24.jpeg?height=500&width=200"
+            src="/WhatsApp Image 2025-10-29 at 22.18.11.jpeg?height=500&width=500"
             alt="Victoria DUFATANYE"
             width={500}
             height={500}
